@@ -1,0 +1,60 @@
+2026-04-15 00:41:42.249 [info] [main] Log level: Info
+2026-04-15 00:41:42.249 [info] [main] Validating found git in: "git"
+2026-04-15 00:41:42.249 [info] [main] Using git "2.43.0" from "git"
+2026-04-15 00:41:42.249 [info] [Model][doInitialScan] Initial repository scan started
+2026-04-15 00:41:42.249 [info] > git rev-parse --show-toplevel [6ms]
+2026-04-15 00:41:42.249 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [5ms]
+2026-04-15 00:41:42.249 [info] [Model][openRepository] Opened repository (path): /home/alobo/dev/flutter/health
+2026-04-15 00:41:42.249 [info] [Model][openRepository] Opened repository (real path): /home/alobo/dev/flutter/health
+2026-04-15 00:41:42.249 [info] [Model][openRepository] Opened repository (kind): repository
+2026-04-15 00:41:42.249 [info] > git rev-parse --show-toplevel [431ms]
+2026-04-15 00:41:42.249 [info] > git config --get commit.template [435ms]
+2026-04-15 00:41:42.249 [info] > git fetch [483ms]
+2026-04-15 00:41:42.249 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/ManedLobo/health.git/'
+2026-04-15 00:41:42.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2026-04-15 00:41:42.257 [info] > git config --get commit.template [3ms]
+2026-04-15 00:41:42.274 [info] > git rev-parse --show-toplevel [13ms]
+2026-04-15 00:41:42.282 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2026-04-15 00:41:42.287 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2026-04-15 00:41:42.287 [info] > git rev-parse --show-toplevel [5ms]
+2026-04-15 00:41:42.287 [info] > git config --get commit.template [9ms]
+2026-04-15 00:41:42.293 [info] > git config --get --local branch.main.vscode-merge-base [6ms]
+2026-04-15 00:41:42.293 [warning] [Git][config] git config failed: Failed to execute git
+2026-04-15 00:41:42.306 [info] > git rev-parse --show-toplevel [14ms]
+2026-04-15 00:41:42.314 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2026-04-15 00:41:42.314 [info] > git reflog main --grep-reflog=branch: Created from *. [15ms]
+2026-04-15 00:41:42.320 [info] > git rev-parse --show-toplevel [7ms]
+2026-04-15 00:41:42.331 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [11ms]
+2026-04-15 00:41:42.331 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2026-04-15 00:41:42.331 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2026-04-15 00:41:42.341 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2026-04-15 00:41:42.347 [info] > git rev-parse --show-toplevel [17ms]
+2026-04-15 00:41:42.362 [info] > git status -z -uall [9ms]
+2026-04-15 00:41:42.363 [info] > git merge-base refs/heads/main refs/remotes/origin/main [23ms]
+2026-04-15 00:41:42.368 [info] > git rev-parse --show-toplevel [6ms]
+2026-04-15 00:41:42.368 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2026-04-15 00:41:42.385 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% eae4be4d32105199824fec9f23c1b7cc21628038...refs/remotes/origin/main -- [38ms]
+2026-04-15 00:41:42.391 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2026-04-15 00:41:42.395 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% eae4be4d32105199824fec9f23c1b7cc21628038...refs/remotes/origin/main -- [28ms]
+2026-04-15 00:41:42.396 [info] > git rev-parse --show-toplevel [6ms]
+2026-04-15 00:41:42.401 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% eae4be4d32105199824fec9f23c1b7cc21628038...refs/remotes/origin/main -- [6ms]
+2026-04-15 00:41:42.419 [info] > git rev-parse --show-toplevel [18ms]
+2026-04-15 00:41:42.437 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:41:42.442 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:41:42.444 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-04-15 00:41:42.454 [info] > git show --textconv :lib/main.dart [5ms]
+2026-04-15 00:41:42.455 [info] > git ls-files --stage -- lib/main.dart [1ms]
+2026-04-15 00:41:42.460 [info] > git cat-file -s 8083ac1cf0ad3fd757cf85bc8392247d99b296bb [1ms]
+2026-04-15 00:41:42.496 [info] > git blame --root --incremental eae4be4d32105199824fec9f23c1b7cc21628038 -- lib/main.dart [3ms]
+2026-04-15 00:41:42.711 [info] > git check-ignore -v -z --stdin [1ms]
+2026-04-15 00:41:48.835 [info] > git check-ignore -v -z --stdin [3ms]
+2026-04-15 00:42:34.368 [info] > git check-ignore -v -z --stdin [2ms]
+2026-04-15 00:42:34.444 [info] > git check-ignore -v -z --stdin [1ms]
+2026-04-15 00:42:34.588 [info] > git show --textconv :lib/main.dart [6ms]
+2026-04-15 00:42:34.589 [info] > git ls-files --stage -- lib/main.dart [1ms]
+2026-04-15 00:42:34.595 [info] > git cat-file -s 8083ac1cf0ad3fd757cf85bc8392247d99b296bb [1ms]

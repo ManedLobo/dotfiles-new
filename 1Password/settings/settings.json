@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "browsers.extension.enabled": true,
+  "security.autolock.minutes": 60,
+  "security.authenticatedUnlock.enabled": true,
+  "authTags": {
+    "browsers.extension.enabled": "sF7paNoTfH8SCIjYU4DvwzUXv9MgYxXaP+X4/jzRSLU",
+    "security.authenticatedUnlock.enabled": "B2itybdhTBb6+9hOKi5gx9JrN6Fke2nxllpg3YNdpnA",
+    "security.autolock.minutes": "kKQpwIa58dX0t4LDzPqUkbIamBjRwltLJi6tJqLLBwo"
+  }
+}

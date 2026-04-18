@@ -1,0 +1,84 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "526280ae3085354824efec362a4105afa1477c017eae5c765d40c37be9c1b47f",
+    "telemetry.devDeviceId": "f4152def-0930-452d-991b-c452058d59bb",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/alobo/dev/flutter/health"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/alobo/dev/flutter/health": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "antigravityUnifiedStateSync.oauthToken.hasLegacyMigrated": true,
+    "unifiedStateSync.hasTrajectorySummariesMigrated": true,
+    "overrideStore.migratedSecureMode": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserAllowlistMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasAddedLocalhostToAllowlist": true,
+    "unifiedStateSync.hasWindowPreferencesMigrated": true,
+    "unifiedStateSync.hasUserStatusMigrated": true,
+    "sidebarWorkspaces.migratedFromInitState": true,
+    "sidebarWorkspaces.cleanedUpEmptyScratchWorkspaces": true,
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/alobo/dev/flutter/health",
+            "backupPath": "/home/alobo/.config/Antigravity/Backups/31c39168287c2f2ff1453563350a14fd",
+            "uiState": {
+                "mode": 1,
+                "x": 5120,
+                "y": 360,
+                "width": 1280,
+                "height": 1412
+            }
+        },
+        "openedWindows": []
+    },
+    "antigravityUnifiedStateSync.seenNuxOneTimeMigration": true,
+    "artifactReviewState.migratedFromInitState": true,
+    "theme": "vs-dark",
+    "themeBackground": "#1d2021",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1d2021",
+            "editorBackground": "#1d2021",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 42,
+            "sideBarWidth": 292,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 292,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "ab7b6e8c626f0947b652ae4edef4ba05": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

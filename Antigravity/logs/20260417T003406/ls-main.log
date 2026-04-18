@@ -1,0 +1,24 @@
+2026-04-17 00:34:06.431 [info] [LS Main] Starting language server from: /usr/share/antigravity/resources/app/extensions/antigravity/bin/language_server_linux_x64
+2026-04-17 00:34:06.567 [info] [LS Main] Args: --csrf_token cabaeb3a-f76c-4d8e-9a47-f2194018acca --extension_server_port 42375 --extension_server_csrf_token 60f37a4c-2d7b-4637-bac5-b81499b6d264 --app_data_dir antigravity --cloud_code_endpoint https://cloudcode-pa.googleapis.com
+2026-04-17 00:34:06.579 [info] [LS Main] Process spawned with PID: 7339
+2026-04-17 00:34:07.691 [error] [LS Main stderr] I0417 00:34:07.690763  7339 server.go:1221] Starting language server process with pid 7339
+I0417 00:34:07.690835  7339 server.go:295] Setting GOMAXPROCS to 4
+
+2026-04-17 00:34:07.693 [error] [LS Main stderr] I0417 00:34:07.693363  7339 server.go:441] Language server will attempt to listen on host 127.0.0.1
+
+2026-04-17 00:34:07.697 [error] [LS Main stderr] I0417 00:34:07.697836  7339 server.go:455] Language server listening on random port at 36369 for HTTPS (gRPC)
+I0417 00:34:07.697864  7339 server.go:462] Language server listening on random port at 42107 for HTTP
+
+2026-04-17 00:34:07.841 [error] [LS Main stderr] I0417 00:34:07.841164  7339 server.go:434] Created extension server client at port 42375
+
+2026-04-17 00:34:07.861 [error] [LS Main stderr] I0417 00:34:07.861576  7339 cascade_manager.go:772] Reactive state is disabled
+
+2026-04-17 00:34:07.899 [info] [LS Main] LS started on port 36369
+2026-04-17 00:34:07.905 [error] [LS Main stderr] I0417 00:34:07.905129  7339 server.go:1679] initialized server successfully in 214.275591ms
+
+2026-04-17 00:34:08.987 [error] [LS Main stderr] I0417 00:34:08.987598  7339 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xadb10be4f7a5002e
+
+2026-04-17 00:34:09.488 [error] [LS Main stderr] I0417 00:34:09.485888  7339 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0xc1fc83829824881
+
+2026-04-17 00:34:10.027 [error] [LS Main stderr] I0417 00:34:10.027631  7339 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xecb146af3b9bb9f4
+

@@ -1,0 +1,104 @@
+2026-04-14 23:55:51.246 [info] Getting Manifest... meta.pyrefly
+2026-04-14 23:55:51.515 [info] Installing extension: meta.pyrefly {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-14 23:55:51.601 [info] Getting Manifest... ms-python.python
+2026-04-14 23:55:52.019 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-04-14 23:55:52.101 [info] Getting Manifest... ms-python.debugpy
+2026-04-14 23:55:52.186 [info] Installing extension: ms-python.python {"context":{"skipPublisherTrust":true,"dependecyOrPackExtensionInstall":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"},"pinned":false,"installGivenVersion":false}
+2026-04-14 23:55:52.186 [info] Installing extension: ms-python.vscode-python-envs {"context":{"skipPublisherTrust":true,"dependecyOrPackExtensionInstall":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"},"pinned":false,"installGivenVersion":false}
+2026-04-14 23:55:52.186 [info] Installing extension: ms-python.debugpy {"context":{"skipPublisherTrust":true,"dependecyOrPackExtensionInstall":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"},"pinned":false,"installGivenVersion":false}
+2026-04-14 23:55:52.536 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/ms-python.vscode-python-envs-1.20.1-universal: ms-python.vscode-python-envs
+2026-04-14 23:55:52.549 [info] Renamed to /home/alobo/.antigravity/extensions/ms-python.vscode-python-envs-1.20.1-universal
+2026-04-14 23:55:53.197 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/ms-python.debugpy-2025.18.0-linux-x64: ms-python.debugpy
+2026-04-14 23:55:53.218 [info] Renamed to /home/alobo/.antigravity/extensions/ms-python.debugpy-2025.18.0-linux-x64
+2026-04-14 23:55:53.998 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/meta.pyrefly-0.61.0-linux-x64: meta.pyrefly
+2026-04-14 23:55:54.011 [info] Renamed to /home/alobo/.antigravity/extensions/meta.pyrefly-0.61.0-linux-x64
+2026-04-14 23:55:54.078 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/ms-python.python-2026.4.0-universal: ms-python.python
+2026-04-14 23:55:54.153 [info] Renamed to /home/alobo/.antigravity/extensions/ms-python.python-2026.4.0-universal
+2026-04-14 23:55:54.172 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:54.172 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:54.172 [info] Extension installed successfully: meta.pyrefly vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:54.172 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:54.172 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-14 23:55:54.409 [info] Getting Manifest... golang.go
+2026-04-14 23:55:54.501 [info] Installing extension: golang.go {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-14 23:55:54.663 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/golang.go-0.52.2-universal: golang.go
+2026-04-14 23:55:54.675 [info] Renamed to /home/alobo/.antigravity/extensions/golang.go-0.52.2-universal
+2026-04-14 23:55:54.698 [info] Extension installed successfully: golang.go vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:54.698 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-14 23:55:55.151 [info] Getting Manifest... vscodevim.vim
+2026-04-14 23:55:55.234 [info] Installing extension: vscodevim.vim {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-14 23:55:55.534 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/vscodevim.vim-1.32.4-universal: vscodevim.vim
+2026-04-14 23:55:55.540 [info] Renamed to /home/alobo/.antigravity/extensions/vscodevim.vim-1.32.4-universal
+2026-04-14 23:55:55.559 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:55.559 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-14 23:55:55.764 [info] Getting Manifest... ms-python.python
+2026-04-14 23:55:55.849 [info] Installing extension: ms-python.python {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-14 23:55:55.903 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:55.903 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-14 23:55:56.070 [info] Getting Manifest... shopify.ruby-lsp
+2026-04-14 23:55:56.155 [info] Installing extension: shopify.ruby-lsp {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-14 23:55:56.287 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/shopify.ruby-lsp-0.10.2-universal: shopify.ruby-lsp
+2026-04-14 23:55:56.295 [info] Renamed to /home/alobo/.antigravity/extensions/shopify.ruby-lsp-0.10.2-universal
+2026-04-14 23:55:56.309 [info] Extension installed successfully: shopify.ruby-lsp vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:56.309 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-14 23:55:56.499 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2026-04-14 23:55:56.585 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-14 23:55:56.739 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/llvm-vs-code-extensions.vscode-clangd-0.4.0-universal: llvm-vs-code-extensions.vscode-clangd
+2026-04-14 23:55:56.746 [info] Renamed to /home/alobo/.antigravity/extensions/llvm-vs-code-extensions.vscode-clangd-0.4.0-universal
+2026-04-14 23:55:56.764 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:55:56.764 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-14 23:56:36.434 [info] Getting Manifest... gabrielbotan.gruvbox-vim
+2026-04-14 23:56:36.554 [info] Installing extension: gabrielbotan.gruvbox-vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-14 23:56:36.944 [info] Extracted extension to file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal: gabrielbotan.gruvbox-vim
+2026-04-14 23:56:36.952 [info] Renamed to /home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal
+2026-04-14 23:56:36.971 [info] Extension installed successfully: gabrielbotan.gruvbox-vim vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-14 23:56:36.971 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)

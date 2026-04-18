@@ -1,0 +1,55 @@
+2026-04-15 00:13:20.361 [info] Getting Manifest... ms-python.python
+2026-04-15 00:13:20.638 [info] Installing extension: ms-python.python {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-15 00:13:20.700 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-15 00:13:20.700 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-15 00:13:20.858 [info] Getting Manifest... golang.go
+2026-04-15 00:13:20.967 [info] Installing extension: golang.go {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-15 00:13:21.047 [info] Extension installed successfully: golang.go vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-15 00:13:21.048 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-15 00:13:21.216 [info] Getting Manifest... meta.pyrefly
+2026-04-15 00:13:21.302 [info] Installing extension: meta.pyrefly {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-15 00:13:21.347 [info] Extension installed successfully: meta.pyrefly vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-15 00:13:21.347 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-15 00:13:21.495 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2026-04-15 00:13:21.578 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-15 00:13:21.619 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-15 00:13:21.619 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)
+2026-04-15 00:13:21.770 [info] Getting Manifest... shopify.ruby-lsp
+2026-04-15 00:13:21.852 [info] Installing extension: shopify.ruby-lsp {"context":{"skipPublisherTrust":true},"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json","path":"/home/alobo/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-04-02T19:49:45.095Z"}}
+2026-04-15 00:13:21.891 [info] Extension installed successfully: shopify.ruby-lsp vscode-userdata:/home/alobo/.antigravity/extensions/extensions.json
+2026-04-15 00:13:21.891 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at va.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62766)
+    at U.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2328)
+    at U.D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2398)
+    at U.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2615)
+    at mf.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10866)
+    at async mf.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2621)
+    at async mf.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1870)

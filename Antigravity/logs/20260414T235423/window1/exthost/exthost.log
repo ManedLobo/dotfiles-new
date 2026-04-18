@@ -1,0 +1,45 @@
+2026-04-14 23:54:26.799 [info] Extension host with pid 88319 started
+2026-04-14 23:54:26.817 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces', root cause: google.antigravity
+2026-04-14 23:54:26.835 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces', root cause: google.antigravity
+2026-04-14 23:54:26.884 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2026-04-14 23:54:26.945 [info] ExtensionService#_doActivateExtension google.antigravity, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces'
+2026-04-14 23:54:33.241 [info] Eager extensions activated
+2026-04-14 23:54:33.245 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:54:33.249 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:54:33.250 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:55:55.595 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:55:56.706 [error] Error: ENOENT: no such file or directory, open '/home/alobo/.config/Antigravity/User/globalStorage/vscodevim.vim/.registers'
+2026-04-14 23:56:02.953 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-14 23:56:02.963 [error] Error: ENOENT: no such file or directory, open '/home/alobo/.config/Antigravity/User/globalStorage/vscodevim.vim/.registers'
+2026-04-14 23:56:02.963 [info] Extension host with pid 88319 exiting with code 0
+2026-04-14 23:56:04.887 [info] Extension host with pid 89753 started
+2026-04-14 23:56:04.887 [info] Skipping acquiring lock for /home/alobo/.config/Antigravity/User/workspaceStorage/ab7b6e8c626f0947b652ae4edef4ba05.
+2026-04-14 23:56:04.909 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-14 23:56:04.948 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-14 23:56:04.999 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-14 23:56:05.072 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-04-14 23:56:05.599 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-14 23:56:05.678 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-14 23:56:08.184 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-14 23:56:08.193 [info] Extension host with pid 89753 exiting with code 0
+2026-04-14 23:56:09.585 [info] Extension host with pid 89930 started
+2026-04-14 23:56:09.585 [info] Skipping acquiring lock for /home/alobo/.config/Antigravity/User/workspaceStorage/ab7b6e8c626f0947b652ae4edef4ba05.
+2026-04-14 23:56:09.599 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-14 23:56:09.617 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-14 23:56:09.667 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-14 23:56:09.778 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-04-14 23:56:10.214 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-14 23:56:10.391 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-14 23:56:11.487 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-04-14 23:56:16.450 [info] Eager extensions activated
+2026-04-14 23:56:16.451 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:56:16.454 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:56:16.456 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:56:16.470 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2026-04-14 23:56:17.581 [error] Error: ENOENT: no such file or directory, open '/home/alobo/.config/Antigravity/User/globalStorage/vscodevim.vim/.registers'
+2026-04-14 23:56:38.321 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-14 23:56:38.327 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-14 23:56:38.376 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-15 00:10:51.276 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-15 00:10:51.325 [error] Error: ENOENT: no such file or directory, open '/home/alobo/.config/Antigravity/User/globalStorage/vscodevim.vim/.registers'
+2026-04-15 00:10:51.325 [info] Extension host with pid 89930 exiting with code 0

@@ -1,0 +1,29 @@
+2026-04-15 13:12:11.005 [info] I0415 13:12:11.005441  9236 server.go:1221] Starting language server process with pid 9236
+2026-04-15 13:12:11.005 [info] I0415 13:12:11.005552  9236 server.go:295] Setting GOMAXPROCS to 4
+2026-04-15 13:12:11.007 [info] I0415 13:12:11.006890  9236 server.go:441] Language server will attempt to listen on host 127.0.0.1
+2026-04-15 13:12:11.007 [info] I0415 13:12:11.007109  9236 server.go:455] Language server listening on random port at 46731 for HTTPS (gRPC)
+2026-04-15 13:12:11.007 [info] I0415 13:12:11.007139  9236 server.go:462] Language server listening on random port at 39937 for HTTP
+2026-04-15 13:12:11.159 [info] I0415 13:12:11.159675  9236 server.go:434] Created extension server client at port 34389
+2026-04-15 13:12:11.193 [info] I0415 13:12:11.190863  9236 cascade_manager.go:772] Reactive state is disabled
+2026-04-15 13:12:11.213 [info] (Antigravity) 2026-04-15 13:12:11.212 [INFO]: Language server started
+2026-04-15 13:12:11.242 [info] I0415 13:12:11.224996  9236 server.go:1679] initialized server successfully in 219.418499ms
+2026-04-15 13:12:11.273 [info] (Antigravity) 2026-04-15 13:12:11.273 [INFO]: LS lspClient started successfully
+2026-04-15 13:12:11.898 [info] I0415 13:12:11.889503  9236 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xf8f2c9bc91d6b8d5
+2026-04-15 13:12:12.278 [info] I0415 13:12:12.277825  9236 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x438911d38e8b3ff4
+2026-04-15 15:42:09.854 [info] (Antigravity) 2026-04-15 15:42:09.853 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 15:56:37.325 [info] I0415 15:56:37.325273  9236 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x8aa8d70e4ba24111
+2026-04-15 15:56:37.745 [info] I0415 15:56:37.745481  9236 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0xa230cce300773261
+2026-04-15 16:00:44.389 [info] (Antigravity) 2026-04-15 16:00:44.389 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 16:00:45.933 [info] (Antigravity) 2026-04-15 16:00:45.933 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:21:48.104 [info] (Antigravity) 2026-04-15 17:21:48.104 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:21:57.967 [info] (Antigravity) 2026-04-15 17:21:57.967 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:23:36.160 [info] (Antigravity) 2026-04-15 17:23:36.160 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:23:37.225 [info] (Antigravity) 2026-04-15 17:23:37.225 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:23:39.283 [info] (Antigravity) 2026-04-15 17:23:39.283 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:23:39.634 [info] (Antigravity) 2026-04-15 17:23:39.634 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:35:27.373 [info] (Antigravity) 2026-04-15 17:35:27.373 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:35:31.255 [info] (Antigravity) 2026-04-15 17:35:31.255 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:35:40.749 [info] (Antigravity) 2026-04-15 17:35:40.749 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 17:42:20.266 [info] (Antigravity) 2026-04-15 17:42:20.266 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 19:46:15.592 [info] I0415 19:46:15.592010  9236 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x5535f94c7d015033
+2026-04-15 19:46:15.996 [info] I0415 19:46:15.996393  9236 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0xa3d014a23fcee4a0

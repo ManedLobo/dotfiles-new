@@ -1,0 +1,19 @@
+2026-04-14 23:54:23.184 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-04-14 23:54:23.254 [info] update#setState idle
+2026-04-14 23:54:23.259 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:37327
+2026-04-14 23:54:23.340 [info] [OAuthTokenLifecycle] Starting one-time OAuth token migration from legacy state sync
+2026-04-14 23:54:23.340 [info] [OAuthTokenLifecycle] No agent manager init state found, skipping migration
+2026-04-14 23:54:23.340 [info] [OverrideStoreLifecycle] Migrating secure mode from agent preferences to override store
+2026-04-14 23:54:23.440 [info] Started initializing default profile extensions in extensions installation folder. file:///home/alobo/.antigravity/extensions
+2026-04-14 23:54:23.451 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/alobo/.antigravity/extensions
+2026-04-14 23:54:24.737 [info] [SidebarWorkspacesLifecycle] Running one-time migration from agent manager init state
+2026-04-14 23:54:24.737 [info] [SidebarWorkspacesLifecycle] No agent manager init state found, skipping migration
+2026-04-14 23:54:24.738 [info] [SidebarWorkspacesLifecycle] Running scratch workspace cleanup migration
+2026-04-14 23:54:24.738 [info] [SidebarWorkspacesLifecycle] No empty scratch workspaces to clean up
+2026-04-14 23:54:26.540 [info] [ArtifactReviewLifecycle] Running one-time migration from agent manager init state
+2026-04-14 23:54:26.540 [info] [ArtifactReviewLifecycle] No agent manager init state found, skipping migration
+2026-04-14 23:54:53.254 [info] update#setState checking for updates
+2026-04-14 23:54:53.319 [info] update#setState idle
+2026-04-14 23:56:02.964 [info] Extension host with pid 88319 exited with code: 0, signal: unknown.
+2026-04-14 23:56:08.193 [info] Extension host with pid 89753 exited with code: 0, signal: unknown.
+2026-04-14 23:56:09.317 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 89733]: crashed with code 139 and reason 'crashed'

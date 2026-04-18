@@ -1,0 +1,19 @@
+2026-04-15 00:12:24.445 [info] Extension host with pid 5420 started
+2026-04-15 00:12:24.445 [info] Skipping acquiring lock for /home/alobo/.config/Antigravity/User/workspaceStorage/ab7b6e8c626f0947b652ae4edef4ba05.
+2026-04-15 00:12:24.456 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-15 00:12:24.501 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-15 00:12:24.514 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-15 00:12:24.568 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-15 00:12:24.628 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-04-15 00:12:25.195 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-15 00:12:30.900 [info] Eager extensions activated
+2026-04-15 00:12:30.903 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-15 00:12:30.908 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-15 00:12:30.910 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-15 00:12:30.927 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2026-04-15 00:12:32.052 [error] Error: ENOENT: no such file or directory, open '/home/alobo/.config/Antigravity/User/globalStorage/vscodevim.vim/.registers'
+2026-04-15 00:28:38.305 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-04-15 00:28:38.323 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-04-15 00:29:05.910 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-15 00:29:05.932 [error] Error: ENOENT: no such file or directory, open '/home/alobo/.config/Antigravity/User/globalStorage/vscodevim.vim/.registers'
+2026-04-15 00:29:05.932 [info] Extension host with pid 5420 exiting with code 0

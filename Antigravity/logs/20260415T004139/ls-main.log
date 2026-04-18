@@ -1,0 +1,33 @@
+2026-04-15 00:41:39.232 [info] [LS Main] Starting language server from: /usr/share/antigravity/resources/app/extensions/antigravity/bin/language_server_linux_x64
+2026-04-15 00:41:39.254 [info] [LS Main] Args: --csrf_token 40960198-9f6c-43a1-97d8-e9ca74f27fd7 --extension_server_port 37871 --extension_server_csrf_token 8f727822-778e-48df-a120-c721a0603d41 --app_data_dir antigravity --cloud_code_endpoint https://cloudcode-pa.googleapis.com
+2026-04-15 00:41:39.260 [info] [LS Main] Process spawned with PID: 13213
+2026-04-15 00:41:39.344 [error] [LS Main stderr] I0415 00:41:39.342143 13213 server.go:1221] Starting language server process with pid 13213
+I0415 00:41:39.342271 13213 server.go:295] Setting GOMAXPROCS to 4
+
+2026-04-15 00:41:39.365 [error] [LS Main stderr] I0415 00:41:39.344633 13213 server.go:441] Language server will attempt to listen on host 127.0.0.1
+I0415 00:41:39.344799 13213 server.go:455] Language server listening on random port at 39965 for HTTPS (gRPC)
+I0415 00:41:39.344825 13213 server.go:462] Language server listening on random port at 35409 for HTTP
+
+2026-04-15 00:41:39.455 [error] [LS Main stderr] I0415 00:41:39.454935 13213 server.go:434] Created extension server client at port 37871
+
+2026-04-15 00:41:39.469 [error] [LS Main stderr] I0415 00:41:39.469018 13213 cascade_manager.go:772] Reactive state is disabled
+
+2026-04-15 00:41:39.481 [info] [LS Main] LS started on port 39965
+2026-04-15 00:41:39.483 [error] [LS Main stderr] I0415 00:41:39.482879 13213 server.go:1679] initialized server successfully in 140.57568ms
+
+2026-04-15 00:41:40.100 [error] [LS Main stderr] I0415 00:41:40.100568 13213 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x9aa564fb799a23bd
+
+2026-04-15 00:41:40.344 [error] [LS Main stderr] I0415 00:41:40.344724 13213 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x4c4df7397a303fa0
+
+2026-04-15 00:42:41.329 [error] [LS Main stderr] E0415 00:42:41.328729 13213 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:42:41.360 [error] [LS Main stderr] I0415 00:42:41.360698 13213 planner_generator.go:283] Requesting planner with 4 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:42:44.462 [error] [LS Main stderr] I0415 00:42:44.462228 13213 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x448819048152f650
+
+2026-04-15 00:42:47.267 [error] [LS Main stderr] I0415 00:42:47.267316 13213 planner_generator.go:283] Requesting planner with 6 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:42:48.253 [error] [LS Main stderr] I0415 00:42:48.253710 13213 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xb70eb458254da681
+
+2026-04-15 00:42:50.502 [error] [LS Main stderr] I0415 00:42:50.502568 13213 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x3bebd0967c0e445
+

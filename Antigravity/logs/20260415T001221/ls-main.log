@@ -1,0 +1,145 @@
+2026-04-15 00:12:21.316 [info] [LS Main] Starting language server from: /usr/share/antigravity/resources/app/extensions/antigravity/bin/language_server_linux_x64
+2026-04-15 00:12:21.446 [info] [LS Main] Args: --csrf_token 953f5aa9-ed3e-499e-950b-066281ddefed --extension_server_port 35057 --extension_server_csrf_token dcd177b4-f97c-463e-bcc1-538fc0ccc0f0 --app_data_dir antigravity --cloud_code_endpoint https://cloudcode-pa.googleapis.com
+2026-04-15 00:12:21.461 [info] [LS Main] Process spawned with PID: 5069
+2026-04-15 00:12:22.533 [error] [LS Main stderr] I0415 00:12:22.532948  5069 server.go:1221] Starting language server process with pid 5069
+I0415 00:12:22.533014  5069 server.go:295] Setting GOMAXPROCS to 4
+
+2026-04-15 00:12:22.553 [error] [LS Main stderr] I0415 00:12:22.552885  5069 server.go:441] Language server will attempt to listen on host 127.0.0.1
+
+2026-04-15 00:12:22.558 [error] [LS Main stderr] I0415 00:12:22.557916  5069 server.go:455] Language server listening on random port at 42675 for HTTPS (gRPC)
+I0415 00:12:22.557944  5069 server.go:462] Language server listening on random port at 37687 for HTTP
+
+2026-04-15 00:12:22.706 [error] [LS Main stderr] I0415 00:12:22.706725  5069 server.go:434] Created extension server client at port 35057
+
+2026-04-15 00:12:22.741 [error] [LS Main stderr] I0415 00:12:22.741152  5069 cascade_manager.go:772] Reactive state is disabled
+
+2026-04-15 00:12:22.823 [info] [LS Main] LS started on port 42675
+2026-04-15 00:12:22.841 [error] [LS Main stderr] I0415 00:12:22.835181  5069 server.go:1679] initialized server successfully in 302.141494ms
+
+2026-04-15 00:12:22.845 [error] [LS Main stderr] E0415 00:12:22.845167  5069 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+W0415 00:12:22.845232  5069 client.go:167] failed to set auth token
+
+2026-04-15 00:12:22.862 [error] [LS Main stderr] W0415 00:12:22.862533  5069 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:30.903 [error] [LS Main stderr] E0415 00:12:30.903271  5069 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+W0415 00:12:30.903366  5069 client.go:167] failed to set auth token
+
+2026-04-15 00:12:30.903 [error] [LS Main stderr] W0415 00:12:30.903543  5069 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.146 [error] [LS Main stderr] E0415 00:12:31.146040  5069 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+W0415 00:12:31.146098  5069 client.go:167] failed to set auth token
+
+2026-04-15 00:12:31.146 [error] [LS Main stderr] W0415 00:12:31.146177  5069 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.147 [error] [LS Main stderr] W0415 00:12:31.147877  5069 log_context.go:118] Cache(loadCodeAssistResponse): Singleflight refresh failed: error getting token source: state syncing error: key not found
+W0415 00:12:31.147905  5069 log_context.go:118] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.147 [error] [LS Main stderr] E0415 00:12:31.147914  5069 server.go:1335] Language Server: failed to get model infos from API server: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.153 [error] [LS Main stderr] E0415 00:12:31.153375  5069 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+W0415 00:12:31.153404  5069 client.go:167] failed to set auth token
+
+2026-04-15 00:12:31.153 [error] [LS Main stderr] W0415 00:12:31.153558  5069 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.153 [error] [LS Main stderr] W0415 00:12:31.153829  5069 log_context.go:118] Cache(loadCodeAssistResponse): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.153 [error] [LS Main stderr] W0415 00:12:31.153865  5069 log_context.go:118] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: error getting token source: state syncing error: key not found
+E0415 00:12:31.153873  5069 server.go:1335] Language Server: failed to get model infos from API server: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.153 [error] [LS Main stderr] W0415 00:12:31.153922  5069 log_context.go:118] Cache(loadCodeAssistResponse): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.153 [error] [LS Main stderr] W0415 00:12:31.153944  5069 log_context.go:118] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: error getting token source: state syncing error: key not found
+E0415 00:12:31.153968  5069 server.go:1335] Language Server: failed to get model infos from API server: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.154 [error] [LS Main stderr] E0415 00:12:31.154606  5069 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+W0415 00:12:31.154639  5069 client.go:167] failed to set auth token
+
+2026-04-15 00:12:31.154 [error] [LS Main stderr] W0415 00:12:31.154690  5069 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.154 [error] [LS Main stderr] W0415 00:12:31.154847  5069 log_context.go:118] Cache(loadCodeAssistResponse): Singleflight refresh failed: error getting token source: state syncing error: key not found
+W0415 00:12:31.154875  5069 log_context.go:118] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: error getting token source: state syncing error: key not found
+E0415 00:12:31.154881  5069 server.go:1335] Language Server: failed to get model infos from API server: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.156 [error] [LS Main stderr] W0415 00:12:31.156131  5069 log_context.go:118] Cache(loadCodeAssistResponse): Singleflight refresh failed: error getting token source: state syncing error: key not found
+W0415 00:12:31.156149  5069 log_context.go:118] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: error getting token source: state syncing error: key not found
+E0415 00:12:31.156154  5069 server.go:1335] Language Server: failed to get model infos from API server: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.156 [error] [LS Main stderr] W0415 00:12:31.156521  5069 log_context.go:118] Cache(loadCodeAssistResponse): Singleflight refresh failed: error getting token source: state syncing error: key not found
+W0415 00:12:31.156538  5069 log_context.go:118] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: error getting token source: state syncing error: key not found
+E0415 00:12:31.156544  5069 server.go:1335] Language Server: failed to get model infos from API server: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.156 [error] [LS Main stderr] W0415 00:12:31.156581  5069 log_context.go:118] Cache(loadCodeAssistResponse): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.156 [error] [LS Main stderr] W0415 00:12:31.156595  5069 log_context.go:118] Cache(availableModels): Singleflight refresh failed: failed to get load code assist response: error getting token source: state syncing error: key not found
+E0415 00:12:31.156600  5069 server.go:1335] Language Server: failed to get model infos from API server: failed to get load code assist response: error getting token source: state syncing error: key not found
+
+2026-04-15 00:12:31.157 [error] [LS Main stderr] E0415 00:12:31.157199  5069 interceptor.go:74] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): unexpected model type: MODEL_TYPE_UNSPECIFIED
+
+2026-04-15 00:16:41.092 [error] [LS Main stderr] I0415 00:16:41.091922  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xe8a90d14853aab9a
+
+2026-04-15 00:16:41.328 [error] [LS Main stderr] I0415 00:16:41.328093  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x2ff6471d8c29484f
+
+2026-04-15 00:16:41.340 [error] [LS Main stderr] E0415 00:16:41.340123  5069 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:16:41.363 [error] [LS Main stderr] I0415 00:16:41.363138  5069 planner_generator.go:283] Requesting planner with 4 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:16:45.940 [error] [LS Main stderr] I0415 00:16:45.940041  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x8a3f145d0aa76944
+
+2026-04-15 00:16:51.384 [error] [LS Main stderr] I0415 00:16:51.384750  5069 planner_generator.go:283] Requesting planner with 5 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:16:51.949 [error] [LS Main stderr] E0415 00:16:51.948843  5069 log.go:398] agent executor error: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+
+2026-04-15 00:16:51.950 [error] [LS Main stderr] E0415 00:16:51.950336  5069 log.go:398] UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+
+2026-04-15 00:16:52.061 [error] [LS Main stderr] I0415 00:16:52.061629  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x95cbdb8cae5f74f6
+
+2026-04-15 00:16:58.684 [error] [LS Main stderr] E0415 00:16:58.684301  5069 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:16:58.703 [error] [LS Main stderr] I0415 00:16:58.702866  5069 planner_generator.go:283] Requesting planner with 8 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:16:58.984 [error] [LS Main stderr] E0415 00:16:58.984765  5069 log.go:398] agent executor error: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+
+2026-04-15 00:16:58.985 [error] [LS Main stderr] E0415 00:16:58.985488  5069 log.go:398] UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+
+2026-04-15 00:17:06.418 [error] [LS Main stderr] E0415 00:17:06.418260  5069 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:17:06.442 [error] [LS Main stderr] I0415 00:17:06.442801  5069 planner_generator.go:283] Requesting planner with 10 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:17:06.710 [error] [LS Main stderr] E0415 00:17:06.710495  5069 log.go:398] agent executor error: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-low on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-low on the server
+
+2026-04-15 00:17:06.711 [error] [LS Main stderr] E0415 00:17:06.711262  5069 log.go:398] UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-low on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-low on the server
+
+2026-04-15 00:17:11.960 [error] [LS Main stderr] E0415 00:17:11.959921  5069 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:17:11.978 [error] [LS Main stderr] I0415 00:17:11.978187  5069 planner_generator.go:283] Requesting planner with 11 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:17:13.217 [error] [LS Main stderr] I0415 00:17:13.217804  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xdba915037f449eab
+
+2026-04-15 00:17:16.520 [error] [LS Main stderr] I0415 00:17:16.520067  5069 planner_generator.go:283] Requesting planner with 14 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:17:20.405 [error] [LS Main stderr] I0415 00:17:20.405108  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x6f801ae68f6a2c92
+
+2026-04-15 00:25:52.756 [error] [LS Main stderr] E0415 00:25:52.756709  5069 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:25:52.776 [error] [LS Main stderr] I0415 00:25:52.776177  5069 planner_generator.go:283] Requesting planner with 16 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:25:53.168 [error] [LS Main stderr] I0415 00:25:53.167945  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x7b6fb63a039aa4dc
+
+2026-04-15 00:25:53.314 [error] [LS Main stderr] I0415 00:25:53.314843  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xbe685fed86376903
+
+2026-04-15 00:25:54.402 [error] [LS Main stderr] I0415 00:25:54.401988  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x679a402ce6ee75c4
+
+2026-04-15 00:28:07.736 [error] [LS Main stderr] E0415 00:28:07.735695  5069 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:28:07.755 [error] [LS Main stderr] I0415 00:28:07.754925  5069 planner_generator.go:283] Requesting planner with 18 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:28:09.300 [error] [LS Main stderr] I0415 00:28:09.300207  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x6d1fda1691d9af51
+
+2026-04-15 00:28:14.182 [error] [LS Main stderr] I0415 00:28:14.182442  5069 planner_generator.go:283] Requesting planner with 22 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:28:15.256 [error] [LS Main stderr] I0415 00:28:15.256819  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xbb7a9003b324e54a
+
+2026-04-15 00:28:38.131 [error] [LS Main stderr] I0415 00:28:38.130628  5069 planner_generator.go:283] Requesting planner with 24 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:28:39.058 [error] [LS Main stderr] I0415 00:28:39.058609  5069 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x4cc43e29e5717a93
+

@@ -1,0 +1,2 @@
+2026-04-15 13:12:08.835 [info] Revived process, old id ab7b6e8c626f0947b652ae4edef4ba05-1 -> new id 1
+2026-04-15 13:12:10.759 [error] Failed to set sticky bit on /tmp/alobo-antigravity-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/alobo-antigravity-zsh'

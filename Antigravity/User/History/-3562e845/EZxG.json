@@ -1,0 +1,16 @@
+{
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Gruvbox Dark (Hard)",
+  "git.autofetch": true,
+  "dart.flutterSdkPath": "/home/alobo/dev/flutter/flutter",
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "chat.tools.urls.autoApprove": {
+    "https://code.visualstudio.com": true,
+    "https://github.com/microsoft/vscode/wiki/*": true,
+    "https://pub.dev/packages/health/versions": true,
+    "https://pub.dev/packages/health": true,
+    "https://pub.dev/packages": true,
+    "https://pub.dev": true
+  }
+}

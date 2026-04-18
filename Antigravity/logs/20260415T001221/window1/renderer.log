@@ -1,0 +1,181 @@
+2026-04-15 00:12:22.688 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.689 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.689 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.689 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.689 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.690 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.690 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.690 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.690 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.690 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.690 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.691 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.691 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.691 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.691 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-04-15 00:12:22.918 [error] [createInstance] Hre depends on UNKNOWN service agentSessions.: Error: [createInstance] Hre depends on UNKNOWN service agentSessions.
+    at Sss.y (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5928:4186)
+    at Sss.o (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5928:1360)
+    at Sss.createInstance (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5928:1207)
+    at new Jqt (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6597:8181)
+    at new EVn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6597:15815)
+    at Sss.o (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5928:1710)
+    at Sss.createInstance (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5928:1207)
+    at new zqt (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6597:18528)
+    at Sss.o (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5928:1710)
+    at Sss.createInstance (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5928:1207)
+2026-04-15 00:12:23.596 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, notebookReplDocument
+2026-04-15 00:12:23.596 [error] Extension 'ms-python.vscode-python-envs CANNOT USE these API proposals 'terminalShellEnv, terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2026-04-15 00:12:23.643 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2026-04-15 00:12:23.644 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2026-04-15 00:12:23.646 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2026-04-15 00:12:23.646 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2026-04-15 00:12:23.646 [error] [google.antigravity]: Menu item references a command `antigravity.prioritized.chat.open` which is not defined in the 'commands' section.
+2026-04-15 00:12:23.845 [info] Started local extension host with pid 5420.
+2026-04-15 00:12:32.053 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-15 00:15:31.913 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:16:34.918 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:17:37.923 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:18:40.927 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:19:43.931 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:20:46.938 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:21:49.946 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:22:52.951 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:23:55.957 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:24:58.963 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:26:01.969 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:27:04.974 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:28:07.979 [error] [Extension Host] FetchError: Unleash Repository error: request to http://localhost:41283/proxy/unleash/client/features failed, reason: connect ECONNREFUSED 127.0.0.1:41283
+	at ClientRequest.<anonymous> (/usr/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1915375)
+	at ClientRequest.emit (node:events:519:28)
+	at ClientRequest.emit (node:domain:489:12)
+	at emitErrorEvent (node:_http_client:107:11)
+	at Socket.socketErrorListener (node:_http_client:574:5)
+	at Socket.emit (node:events:519:28)
+	at Socket.emit (node:domain:489:12)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-04-15 00:29:05.924 [warning] [backup tracker] suspended, ignoring unregister event file:///home/alobo/.gemini/antigravity/brain/3dfb2c74-80e5-49db-b048-bc586a299d09/implementation_plan.md 

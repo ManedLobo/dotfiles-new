@@ -1,0 +1,5 @@
+2026-04-14 23:54:23.384 [info] [Auth] AntigravityAuthMainService initialized
+2026-04-14 23:55:30.293 [info] [Auth] Localhost server listening on port 46215
+2026-04-14 23:55:30.297 [info] [Auth] Login URL:  https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fexperimentsandconfigs&state=302c50ed-7fa0-42c9-8b4d-b22a23208945&prompt=consent&response_type=code&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A46215%2Foauth-callback
+2026-04-14 23:55:40.057 [info] [Auth] Localhost server stopped
+2026-04-14 23:55:40.065 [info] OAuth token changed, executing antigravity.handleAuthRefresh

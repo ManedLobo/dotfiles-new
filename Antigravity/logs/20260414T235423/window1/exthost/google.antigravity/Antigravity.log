@@ -1,0 +1,59 @@
+2026-04-14 23:54:27.945 [info] I0414 23:54:27.944667 88406 server.go:1221] Starting language server process with pid 88406
+2026-04-14 23:54:27.945 [info] I0414 23:54:27.944778 88406 server.go:295] Setting GOMAXPROCS to 4
+2026-04-14 23:54:27.946 [info] I0414 23:54:27.946365 88406 server.go:441] Language server will attempt to listen on host 127.0.0.1
+2026-04-14 23:54:27.946 [info] I0414 23:54:27.946563 88406 server.go:455] Language server listening on random port at 39117 for HTTPS (gRPC)
+2026-04-14 23:54:27.946 [info] I0414 23:54:27.946596 88406 server.go:462] Language server listening on random port at 44797 for HTTP
+2026-04-14 23:54:28.188 [info] I0414 23:54:28.187835 88406 server.go:434] Created extension server client at port 42585
+2026-04-14 23:54:28.203 [info] I0414 23:54:28.203771 88406 cascade_manager.go:772] Reactive state is disabled
+2026-04-14 23:54:28.213 [info] (Antigravity) 2026-04-14 23:54:28.212 [INFO]: Language server started
+2026-04-14 23:54:28.234 [info] I0414 23:54:28.223048 88406 server.go:1679] initialized server successfully in 278.257008ms
+2026-04-14 23:54:28.244 [info] E0414 23:54:28.241683 88406 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+2026-04-14 23:54:28.244 [info] W0414 23:54:28.241747 88406 client.go:167] failed to set auth token
+2026-04-14 23:54:28.248 [info] W0414 23:54:28.247887 88406 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+2026-04-14 23:54:28.258 [info] (Antigravity) 2026-04-14 23:54:28.258 [INFO]: LS lspClient started successfully
+2026-04-14 23:55:38.819 [info] I0414 23:55:38.819697 88406 server.go:1856] Got signal terminated, shutting down
+2026-04-14 23:55:38.819 [info] I0414 23:55:38.819725 88406 server.go:1882] Language server shutting down
+2026-04-14 23:55:38.832 [info] (Antigravity) 2026-04-14 23:55:38.832 [INFO]: Language server exited with code 0
+2026-04-14 23:55:38.912 [info] I0414 23:55:38.912629 89494 server.go:1221] Starting language server process with pid 89494
+2026-04-14 23:55:38.912 [info] I0414 23:55:38.912694 89494 server.go:295] Setting GOMAXPROCS to 4
+2026-04-14 23:55:38.913 [info] I0414 23:55:38.913335 89494 server.go:441] Language server will attempt to listen on host 127.0.0.1
+2026-04-14 23:55:38.913 [info] I0414 23:55:38.913492 89494 server.go:455] Language server listening on fixed port at 39117 for HTTPS (gRPC)
+2026-04-14 23:55:38.913 [info] I0414 23:55:38.913519 89494 server.go:462] Language server listening on fixed port at 37195 for HTTP
+2026-04-14 23:55:39.095 [info] I0414 23:55:39.094909 89494 server.go:434] Created extension server client at port 42585
+2026-04-14 23:55:39.101 [info] I0414 23:55:39.101245 89494 cascade_manager.go:772] Reactive state is disabled
+2026-04-14 23:55:39.106 [info] (Antigravity) 2026-04-14 23:55:39.105 [INFO]: Language server started
+2026-04-14 23:55:39.107 [info] I0414 23:55:39.107390 89494 server.go:1679] initialized server successfully in 194.675815ms
+2026-04-14 23:55:39.118 [info] E0414 23:55:39.118089 89494 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+2026-04-14 23:55:39.118 [info] W0414 23:55:39.118172 89494 client.go:167] failed to set auth token
+2026-04-14 23:55:39.123 [info] W0414 23:55:39.122865 89494 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+2026-04-14 23:55:39.124 [info] (Antigravity) 2026-04-14 23:55:39.124 [INFO]: LS lspClient started successfully
+2026-04-14 23:55:40.821 [info] I0414 23:55:40.820944 89494 server.go:1856] Got signal terminated, shutting down
+2026-04-14 23:55:40.821 [info] I0414 23:55:40.820976 89494 server.go:1882] Language server shutting down
+2026-04-14 23:55:40.834 [info] (Antigravity) 2026-04-14 23:55:40.834 [INFO]: Language server exited with code 0
+2026-04-14 23:55:40.923 [info] I0414 23:55:40.923356 89644 server.go:1221] Starting language server process with pid 89644
+2026-04-14 23:55:40.923 [info] I0414 23:55:40.923417 89644 server.go:295] Setting GOMAXPROCS to 4
+2026-04-14 23:55:40.924 [info] I0414 23:55:40.924209 89644 server.go:441] Language server will attempt to listen on host 127.0.0.1
+2026-04-14 23:55:40.924 [info] I0414 23:55:40.924383 89644 server.go:455] Language server listening on fixed port at 39117 for HTTPS (gRPC)
+2026-04-14 23:55:40.924 [info] I0414 23:55:40.924408 89644 server.go:462] Language server listening on fixed port at 46117 for HTTP
+2026-04-14 23:55:41.062 [info] I0414 23:55:41.062400 89644 server.go:434] Created extension server client at port 42585
+2026-04-14 23:55:41.067 [info] I0414 23:55:41.067199 89644 cascade_manager.go:772] Reactive state is disabled
+2026-04-14 23:55:41.074 [info] (Antigravity) 2026-04-14 23:55:41.074 [INFO]: Language server started
+2026-04-14 23:55:41.075 [info] I0414 23:55:41.075700 89644 server.go:1679] initialized server successfully in 152.262564ms
+2026-04-14 23:55:41.093 [info] (Antigravity) 2026-04-14 23:55:41.093 [INFO]: LS lspClient started successfully
+2026-04-14 23:55:41.645 [info] I0414 23:55:41.645737 89644 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xe6abea8b3657c5eb
+2026-04-14 23:55:42.070 [info] I0414 23:55:42.070146 89644 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x245f8e7c15176006
+2026-04-14 23:56:10.512 [info] I0414 23:56:10.512409 90053 server.go:1221] Starting language server process with pid 90053
+2026-04-14 23:56:10.512 [info] I0414 23:56:10.512482 90053 server.go:295] Setting GOMAXPROCS to 4
+2026-04-14 23:56:10.513 [info] I0414 23:56:10.513162 90053 server.go:441] Language server will attempt to listen on host 127.0.0.1
+2026-04-14 23:56:10.513 [info] I0414 23:56:10.513328 90053 server.go:455] Language server listening on random port at 35075 for HTTPS (gRPC)
+2026-04-14 23:56:10.513 [info] I0414 23:56:10.513352 90053 server.go:462] Language server listening on random port at 35987 for HTTP
+2026-04-14 23:56:10.696 [info] I0414 23:56:10.696140 90053 server.go:434] Created extension server client at port 35937
+2026-04-14 23:56:10.710 [info] I0414 23:56:10.710850 90053 cascade_manager.go:772] Reactive state is disabled
+2026-04-14 23:56:10.722 [info] (Antigravity) 2026-04-14 23:56:10.721 [INFO]: Language server started
+2026-04-14 23:56:10.740 [info] I0414 23:56:10.730226 90053 server.go:1679] initialized server successfully in 217.717729ms
+2026-04-14 23:56:10.765 [info] (Antigravity) 2026-04-14 23:56:10.765 [INFO]: LS lspClient started successfully
+2026-04-14 23:56:11.600 [info] I0414 23:56:11.600708 90053 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x1f3166f15ce2d493
+2026-04-14 23:56:11.979 [info] I0414 23:56:11.979125 90053 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0xe9db5bf8aa7efd51
+2026-04-15 00:08:13.019 [info] (Antigravity) 2026-04-15 00:08:13.018 [INFO]: [SupercompleteProvider] No supercomplete response
+2026-04-15 00:10:51.320 [info] I0415 00:10:51.320360 90053 server.go:1941] Exit requested on language server process 90053
+2026-04-15 00:10:51.321 [info] I0415 00:10:51.320470 90053 server.go:1882] Language server shutting down

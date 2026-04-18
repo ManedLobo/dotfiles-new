@@ -1,0 +1,15 @@
+2026-04-17 00:34:09.311 [info] Extension host with pid 7641 started
+2026-04-17 00:34:09.311 [info] Skipping acquiring lock for /home/alobo/.config/Antigravity/User/workspaceStorage/ab7b6e8c626f0947b652ae4edef4ba05.
+2026-04-17 00:34:09.382 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-17 00:34:09.454 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-17 00:34:09.484 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-04-17 00:34:09.553 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-17 00:34:09.625 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-04-17 00:34:10.220 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-17 00:34:15.900 [info] Eager extensions activated
+2026-04-17 00:34:15.912 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-04-17 00:34:15.917 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-17 00:34:15.919 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-17 00:34:15.935 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2026-04-17 00:34:25.892 [info] Extension host terminating: renderer closed the MessagePort
+2026-04-17 00:34:25.910 [info] Extension host with pid 7641 exiting with code 0

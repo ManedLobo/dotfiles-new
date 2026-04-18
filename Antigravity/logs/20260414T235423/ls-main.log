@@ -1,0 +1,54 @@
+2026-04-14 23:54:23.274 [info] [LS Main] Starting language server from: /usr/share/antigravity/resources/app/extensions/antigravity/bin/language_server_linux_x64
+2026-04-14 23:54:23.342 [info] [LS Main] Args: --csrf_token 92a3c237-8358-434b-b937-c9f9ff25aa6d --extension_server_port 41283 --extension_server_csrf_token da35102f-f4fd-49cc-a3b6-5884914d975f --app_data_dir antigravity --cloud_code_endpoint https://cloudcode-pa.googleapis.com
+2026-04-14 23:54:23.349 [info] [LS Main] Process spawned with PID: 88013
+2026-04-14 23:54:23.433 [error] [LS Main stderr] I0414 23:54:23.431749 88013 server.go:1221] Starting language server process with pid 88013
+I0414 23:54:23.431810 88013 server.go:295] Setting GOMAXPROCS to 4
+I0414 23:54:23.432871 88013 server.go:441] Language server will attempt to listen on host 127.0.0.1
+
+2026-04-14 23:54:23.435 [error] [LS Main stderr] I0414 23:54:23.433091 88013 server.go:455] Language server listening on random port at 43135 for HTTPS (gRPC)
+I0414 23:54:23.433118 88013 server.go:462] Language server listening on random port at 42435 for HTTP
+
+2026-04-14 23:54:23.554 [error] [LS Main stderr] I0414 23:54:23.554692 88013 server.go:434] Created extension server client at port 41283
+
+2026-04-14 23:54:23.568 [error] [LS Main stderr] I0414 23:54:23.567926 88013 cascade_manager.go:772] Reactive state is disabled
+
+2026-04-14 23:54:23.575 [info] [LS Main] LS started on port 43135
+2026-04-14 23:54:23.577 [error] [LS Main stderr] I0414 23:54:23.576940 88013 server.go:1679] initialized server successfully in 145.106471ms
+
+2026-04-14 23:54:23.579 [error] [LS Main stderr] E0414 23:54:23.579116 88013 server.go:545] Failed to get OAuth token: error getting token source from auth provider: state syncing error: key not found
+W0414 23:54:23.579178 88013 client.go:167] failed to set auth token
+
+2026-04-14 23:54:23.582 [error] [LS Main stderr] W0414 23:54:23.582156 88013 log_context.go:118] Cache(userInfo): Singleflight refresh failed: error getting token source: state syncing error: key not found
+
+2026-04-14 23:54:24.810 [error] [LS Main stderr] 2026/04/14 23:54:24 http: TLS handshake error from 127.0.0.1:50440: remote error: tls: unknown certificate
+
+2026-04-14 23:56:16.441 [error] [LS Main stderr] I0414 23:56:16.441788 88013 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0xcb88f9c445e7e5a1
+
+2026-04-14 23:56:16.705 [error] [LS Main stderr] I0414 23:56:16.705212 88013 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x373ad4b088144175
+
+2026-04-14 23:57:10.059 [error] [LS Main stderr] E0414 23:57:10.059248 88013 log.go:398] UNAVAILABLE (code 503): No capacity available for model tab_flash_lite_preview on the server
+
+2026-04-14 23:57:10.059 [error] [LS Main stderr] E0414 23:57:10.059337 88013 interceptor.go:74] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): UNAVAILABLE (code 503): No capacity available for model tab_flash_lite_preview on the server
+
+2026-04-14 23:58:21.263 [error] [LS Main stderr] E0414 23:58:21.263348 88013 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-14 23:58:21.292 [error] [LS Main stderr] I0414 23:58:21.292134 88013 planner_generator.go:283] Requesting planner with 3 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-14 23:58:21.743 [error] [LS Main stderr] E0414 23:58:21.743748 88013 log.go:398] agent executor error: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+
+2026-04-14 23:58:21.744 [error] [LS Main stderr] E0414 23:58:21.744540 88013 log.go:398] UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+
+2026-04-15 00:00:06.447 [error] [LS Main stderr] E0415 00:00:06.446843 88013 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:08:13.380 [error] [LS Main stderr] I0415 00:08:13.380528 88013 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:fetchAvailableModels Trace: 0x2ef2673dce173adb
+
+2026-04-15 00:08:13.578 [error] [LS Main stderr] I0415 00:08:13.578331 88013 http_helpers.go:123] URL: https://cloudcode-pa.googleapis.com/v1internal:loadCodeAssist Trace: 0x5a684e173f884706
+
+2026-04-15 00:08:25.741 [error] [LS Main stderr] E0415 00:08:25.741056 88013 log.go:398] failed to check terminal shell support: internal: internal error
+
+2026-04-15 00:08:25.761 [error] [LS Main stderr] I0415 00:08:25.761344 88013 planner_generator.go:283] Requesting planner with 5 chat messages at model retry attempt 1 and API retry attempt 1
+
+2026-04-15 00:08:26.165 [error] [LS Main stderr] E0415 00:08:26.165262 88013 log.go:398] agent executor error: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+
+2026-04-15 00:08:26.166 [error] [LS Main stderr] E0415 00:08:26.166026 88013 log.go:398] UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server: UNAVAILABLE (code 503): No capacity available for model gemini-3.1-pro-high on the server
+

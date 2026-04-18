@@ -1,0 +1,66 @@
+2026-04-15 00:12:25.089 [info] [main] Log level: Info
+2026-04-15 00:12:25.089 [info] [main] Validating found git in: "git"
+2026-04-15 00:12:25.089 [info] [main] Using git "2.43.0" from "git"
+2026-04-15 00:12:25.089 [info] [Model][doInitialScan] Initial repository scan started
+2026-04-15 00:12:25.089 [info] > git rev-parse --show-toplevel [7ms]
+2026-04-15 00:12:25.090 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [30ms]
+2026-04-15 00:12:25.102 [info] [Model][openRepository] Opened repository (path): /home/alobo/dev/flutter/health
+2026-04-15 00:12:25.102 [info] [Model][openRepository] Opened repository (real path): /home/alobo/dev/flutter/health
+2026-04-15 00:12:25.102 [info] [Model][openRepository] Opened repository (kind): repository
+2026-04-15 00:12:25.115 [info] > git config --get commit.template [6ms]
+2026-04-15 00:12:25.116 [info] > git rev-parse --show-toplevel [2ms]
+2026-04-15 00:12:25.126 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2026-04-15 00:12:25.127 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:12:25.144 [info] > git status -z -uall [7ms]
+2026-04-15 00:12:25.144 [info] > git rev-parse --show-toplevel [12ms]
+2026-04-15 00:12:25.150 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [8ms]
+2026-04-15 00:12:25.174 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2026-04-15 00:12:25.180 [info] > git rev-parse --show-toplevel [31ms]
+2026-04-15 00:12:25.188 [info] > git config --get --local branch.main.vscode-merge-base [8ms]
+2026-04-15 00:12:25.188 [warning] [Git][config] git config failed: Failed to execute git
+2026-04-15 00:12:25.193 [info] > git config --get commit.template [20ms]
+2026-04-15 00:12:25.194 [info] > git rev-parse --show-toplevel [7ms]
+2026-04-15 00:12:25.225 [info] > git reflog main --grep-reflog=branch: Created from *. [32ms]
+2026-04-15 00:12:25.243 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [13ms]
+2026-04-15 00:12:25.243 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2026-04-15 00:12:25.243 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2026-04-15 00:12:25.248 [info] > git rev-parse --show-toplevel [24ms]
+2026-04-15 00:12:25.248 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2026-04-15 00:12:25.254 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2026-04-15 00:12:25.259 [info] > git rev-parse --show-toplevel [6ms]
+2026-04-15 00:12:25.273 [info] > git status -z -uall [5ms]
+2026-04-15 00:12:25.273 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% eae4be4d32105199824fec9f23c1b7cc21628038...refs/remotes/origin/main -- [15ms]
+2026-04-15 00:12:25.274 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-04-15 00:12:25.277 [info] > git rev-parse --show-toplevel [13ms]
+2026-04-15 00:12:25.283 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:12:25.288 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:12:25.293 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:12:25.295 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-04-15 00:12:25.407 [info] > git show --textconv :lib/main.dart [5ms]
+2026-04-15 00:12:25.408 [info] > git ls-files --stage -- lib/main.dart [1ms]
+2026-04-15 00:12:25.413 [info] > git cat-file -s 8083ac1cf0ad3fd757cf85bc8392247d99b296bb [1ms]
+2026-04-15 00:12:25.458 [info] > git blame --root --incremental eae4be4d32105199824fec9f23c1b7cc21628038 -- lib/main.dart [6ms]
+2026-04-15 00:12:25.585 [info] > git fetch [484ms]
+2026-04-15 00:12:25.585 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/ManedLobo/health.git/'
+2026-04-15 00:12:25.610 [info] > git config --get commit.template [12ms]
+2026-04-15 00:12:25.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2026-04-15 00:12:25.622 [info] > git status -z -uall [6ms]
+2026-04-15 00:12:25.623 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-04-15 00:12:25.689 [info] > git check-ignore -v -z --stdin [1ms]
+2026-04-15 00:12:26.302 [info] > git ls-files --stage -- lib/main.dart [1ms]
+2026-04-15 00:12:26.308 [info] > git cat-file -s 8083ac1cf0ad3fd757cf85bc8392247d99b296bb [1ms]
+2026-04-15 00:12:26.315 [info] > git show --textconv :lib/main.dart [1ms]
+2026-04-15 00:12:30.902 [info] > git check-ignore -v -z --stdin [3ms]
+2026-04-15 00:12:31.078 [info] > git check-ignore -v -z --stdin [4ms]
+2026-04-15 00:18:16.767 [info] > git config --get commit.template [7ms]
+2026-04-15 00:18:16.768 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-04-15 00:18:16.780 [info] > git status -z -uall [6ms]
+2026-04-15 00:18:16.781 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-04-15 00:18:27.884 [info] > git ls-files --stage -- lib/main.dart [2ms]
+2026-04-15 00:18:27.891 [info] > git cat-file -s 8083ac1cf0ad3fd757cf85bc8392247d99b296bb [1ms]
+2026-04-15 00:18:27.903 [info] > git show --textconv :lib/main.dart [2ms]

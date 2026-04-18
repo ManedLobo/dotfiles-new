@@ -1,0 +1,1 @@
+2026-04-17 00:34:10.485 [error] Failed to set sticky bit on /tmp/alobo-antigravity-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/alobo-antigravity-zsh'

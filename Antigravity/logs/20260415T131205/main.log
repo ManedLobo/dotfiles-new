@@ -1,0 +1,30 @@
+2026-04-15 13:12:05.766 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-04-15 13:12:05.766 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:33527
+2026-04-15 13:12:05.766 [info] update#setState idle
+2026-04-15 13:12:06.510 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/dark-hard.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 13:12:06.520 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/dark-medium.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 13:12:06.525 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/dark-soft.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 13:12:06.529 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/light-hard.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 13:12:06.531 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/light-medium.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 13:12:06.536 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/light-soft.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 13:12:35.722 [info] update#setState checking for updates
+2026-04-15 13:12:35.789 [info] update#setState idle
+2026-04-15 13:37:50.162 [warning] [perf] profiling STARTED 1526ed52-0edd-41da-8927-84bd6258be7b
+2026-04-15 13:37:55.196 [warning] [perf] profiling DONE 1526ed52-0edd-41da-8927-84bd6258be7b
+2026-04-15 13:38:10.943 [warning] [perf] profiling STARTED 1526ed52-0edd-41da-8927-84bd6258be7b
+2026-04-15 13:38:15.963 [warning] [perf] profiling DONE 1526ed52-0edd-41da-8927-84bd6258be7b
+2026-04-15 13:38:31.938 [warning] [perf] profiling STARTED 1526ed52-0edd-41da-8927-84bd6258be7b
+2026-04-15 13:38:36.958 [warning] [perf] profiling DONE 1526ed52-0edd-41da-8927-84bd6258be7b
+2026-04-15 14:12:35.722 [info] update#setState checking for updates
+2026-04-15 14:12:35.848 [info] update#setState idle
+2026-04-15 15:12:35.725 [info] update#setState checking for updates
+2026-04-15 15:12:35.827 [info] update#setState idle
+2026-04-15 16:12:35.726 [info] update#setState checking for updates
+2026-04-15 16:12:35.853 [info] update#setState idle
+2026-04-15 17:12:35.729 [info] update#setState checking for updates
+2026-04-15 17:12:35.855 [info] update#setState idle
+2026-04-15 18:12:35.730 [info] update#setState checking for updates
+2026-04-15 18:12:35.863 [info] update#setState idle
+2026-04-15 19:12:35.733 [info] update#setState checking for updates
+2026-04-15 19:12:35.859 [info] update#setState idle
+2026-04-15 20:05:39.489 [info] Extension host with pid 9118 exited with code: 0, signal: unknown.

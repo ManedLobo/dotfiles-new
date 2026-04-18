@@ -1,0 +1,12 @@
+2026-04-15 00:12:21.288 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-04-15 00:12:21.288 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:45999
+2026-04-15 00:12:21.288 [info] update#setState idle
+2026-04-15 00:12:21.562 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/dark-hard.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 00:12:21.567 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/dark-medium.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 00:12:21.571 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/dark-soft.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 00:12:21.575 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/light-hard.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 00:12:21.578 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/light-medium.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 00:12:21.582 [error] [Themes] Failed to load theme with inheritance: file:///home/alobo/.antigravity/extensions/gabrielbotan.gruvbox-vim-1.0.0-universal/themes/light-soft.tmTheme Unexpected token '<', "<?xml vers"... is not valid JSON
+2026-04-15 00:12:51.284 [info] update#setState checking for updates
+2026-04-15 00:12:51.348 [info] update#setState idle
+2026-04-15 00:29:05.933 [info] Extension host with pid 5420 exited with code: 0, signal: unknown.
